@@ -33,11 +33,9 @@ Após acessar a pasta do projeto, Execute o comando:
 yarn dev
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Ferramentas usadas para criar seu projeto
 
 - [Typescript](https://www.typescriptlang.org/) - Liguagem tipada.
 - [Vite](https://vitejs.dev/) - O framework web usado.
