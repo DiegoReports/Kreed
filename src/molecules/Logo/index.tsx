@@ -1,4 +1,4 @@
-import LogoHero from '../../../assets/logo.svg'
+import LogoHero from '../../assets/logo.svg'
 
 const Logo = () => {
   return <div>
