@@ -1,4 +1,6 @@
 import { createGlobalStyle }from 'styled-components'
+import Elipse1 from '../assets/elipseBlue1.png'
+import Elipse2 from '../assets/elipseBlue2.png'
 
 const globalStyle = createGlobalStyle`
   * {
@@ -12,6 +14,8 @@ const globalStyle = createGlobalStyle`
   }
 
   body {
+    background: url(${Elipse1}) no-repeat 1010px, url(${Elipse2}) no-repeat 931px;
+    background-size: cover;
     background-color: #f8fdff;
     font-family: 'Poppins', sans-serif;
   }
