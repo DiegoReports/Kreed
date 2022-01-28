@@ -35,26 +35,32 @@ yarn dev
 
 ## 🛠️ Construído com
 
-Ferramentas usadas para criar seu projeto
+Ferramentas usadas para criar o projeto:
 
+- [ReactJs](https://pt-br.reactjs.org/) - Biblioteca Javascript.
 - [Typescript](https://www.typescriptlang.org/) - Liguagem tipada.
 - [Vite](https://vitejs.dev/) - O framework web usado.
 - [Styled Components](https://styled-components.com/) - Biblioteca para estilização.
+- [Surge SH](https://surge.sh/) - Publicação estatica na Web.
 
-## ✒️ Autores
+## ✒️ Autores:
 
 O desenvolvimento do projeto está sendo guiado pelo Dev:
 
-- **Diego Souza** - _Aula no Youtube_ - [Canal Diego Souza](https://www.youtube.com/watch?v=h8mUkxCDT-g)
+- [x] **Aula 1** [Link](https://www.youtube.com/watch?v=h8mUkxCDT-g&list=PL_mbOjSlPMCi1rWhzkQNx_eGfAgtsvrCx&index=1)
+- [x] **Aula 2** [Link](https://www.youtube.com/watch?v=D-vyLYgw7PA&list=PL_mbOjSlPMCi1rWhzkQNx_eGfAgtsvrCx&index=2)
+- [x] **Aula 3** [Link](https://www.youtube.com/watch?v=BjoyxFLkeSE&list=PL_mbOjSlPMCi1rWhzkQNx_eGfAgtsvrCx&index=3)
 
 <br>
 <br>
 <br>
 <br>
 <strong>
-<p align='center'>🚧Projeto em Desenvolvimento ...
+<p align='center'>🚧Projeto em Conclúido !
 </p>
 </strong>
+
+<h1 align='center'><img align='center' src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=hyper&logoColor=white"><a href="https://kreed-frontend.surge.sh/"> Deploy no Surge</a></h1>
 
 ---
 
